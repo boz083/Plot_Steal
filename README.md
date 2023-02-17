@@ -1,4 +1,4 @@
-# A Plot is Worth a Thousand Words  
+## Official repository for paper: A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots
 
 File Descriptions:
 - TargetTask.py: Train shadow/target models. Dataset, hyperparameter settings can be adjusted within file
