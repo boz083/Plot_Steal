@@ -1,5 +1,5 @@
 ## Plot Stealing
-This is the fficial repository for our USENIX 2023 paper "A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots"
+This is the official repository for our USENIX 2023 paper "A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots"
 
 ### File Descriptions:
   
